@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib>
+	<tlibversion>1.0</tlibversion>
+	<jspversion>1.1</jspversion>
+	<shotname>app</shotname>
+	<uri>http://jakarta.apache.org/struts/tags-bean</uri>
+	<tag>
+		<name>app</name>
+		<tagclass>org.javachina.tag.AppNameTag</tagclass>
+		<bodycontent>empty</bodycontent>
+	</tag>
+</taglib>
